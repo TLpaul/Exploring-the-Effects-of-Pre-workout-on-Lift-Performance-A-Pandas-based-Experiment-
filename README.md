@@ -11,4 +11,5 @@ Code screenshots  from project
 ![image](https://github.com/TLpaul/Exploring-the-Effects-of-Pre-workout-on-Lift-Performance-A-Pandas-based-Experiment-/assets/101278914/cb7dabc7-7708-4eef-beaf-a6e9c1427aa8)
 ![image](https://github.com/TLpaul/Exploring-the-Effects-of-Pre-workout-on-Lift-Performance-A-Pandas-based-Experiment-/assets/101278914/c2a6eea9-82c6-4a36-9dcf-8380e7e49260)
 
+Link to report https://docs.google.com/document/d/1YqpGie4cfSiDXOg_vQbRWabLLyAil4CDG6JSXKv4ShU/edit
 
